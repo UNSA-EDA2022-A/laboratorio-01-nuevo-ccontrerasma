@@ -23,7 +23,7 @@ public class Exercise2 {
 
 	public Integer getMenorNumeroSaltos(int a []) {
 		  ArrayList<Integer> saltos = new ArrayList();
-		  int conejo=0, cantidad=50; boolean diferencia=false;
+		  int cantidad=50; boolean diferencia=false;
 		  for(int e = 0; e < 6; e++) {
 			  if(a[e+1]-a[e]>50) {
 				  diferencia=true;
