@@ -40,7 +40,6 @@ public class Exercise1 {
 						 definidor++;
 					 }
 					 if(String.valueOf(fi).equals("0")) {
-						 nuevo=nuevo;
 						 definidor++;
 					 }
 					 if(String.valueOf(fi).equals("1")) {
